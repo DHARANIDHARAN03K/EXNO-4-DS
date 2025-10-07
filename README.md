@@ -1,6 +1,6 @@
 ## EXNO:4-DS
-## Name : VIJAYASHREE B
-## Reg No : 212223040238
+## Name : DHARANI DHARAN K
+## Reg No : 212223040036
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
